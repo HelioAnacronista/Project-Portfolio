@@ -321,7 +321,8 @@ a:hover {
     }
 
     .container .card-container:nth-child(1),
-    .container .card-container:nth-child(3) {
+    .container .card-container:nth-child(3) 
+    {
         flex-direction: column-reverse;
     }
 
